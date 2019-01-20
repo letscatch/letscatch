@@ -1,2 +1,2 @@
-# letscatch-web
+# letscatch
 LETSCATCH official website
